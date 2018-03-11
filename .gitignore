@@ -1,0 +1,10 @@
+/build
+/gradle.properties
+/DraggablePanel.iml
+/local.properties
+/build/
+/.idea/
+/app/build/
+/.gradle/
+/draggablepanel/draggablepanel.iml
+/draggablepanel/draggable.iml
